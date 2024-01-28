@@ -16,4 +16,6 @@
 ## 效果
 ![效果](img/company.png)  
 
-**代码原理可以查看`src/demo`文件夹中的[demo.ipynb](src/demo/demo.ipynb)**
+**代码原理可以查看`src/demo`文件夹中的[demo.ipynb](src/demo/demo.ipynb)**  
+
+本来打算把python文件使用pyinstaller打包为exe文件，但打包出来有点大，就算了
