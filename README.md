@@ -4,6 +4,11 @@
 主要参考：https://www.bilibili.com/video/BV1WW4y1a7rr/  
 感谢这位up的分享
 ## 使用
+### python环境依赖
+opencv-python  
+pyzbar  
+pandas  
+qrcode  
 ### 解析k7v3 wifi版的光谱分享二维码，生成csv格式表格  
 1. 把k7v3 wifi版app生成的`光谱分享二维码`，命名为`image.jpg`，放在[`qrcode2csv.py`](src/qrcode2csv.py)同路径下  
 2. 运行`qrcode2csv.py`  
